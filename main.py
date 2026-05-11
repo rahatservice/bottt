@@ -6,7 +6,7 @@ import os
 # Tokeni ortam değişkeninden (Variable) çekiyoruz
 TOKEN = os.environ.get("TOKEN") 
 
-DEGER_YETKILI_ROL_ID = 123456789012345678  # Yetkili rolün ID'si
+DEGER_YETKILI_ROL_ID = 1503341767049740369  # Yetkili rolün ID'si
 LOG_KANAL_ID = 123456789012345678          # İşlem log kanalı ID'si
 # =======================================================================
 
